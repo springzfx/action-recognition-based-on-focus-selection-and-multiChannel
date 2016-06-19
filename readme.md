@@ -8,11 +8,11 @@ To run this project, you will need:
  - cuda
 
 **directory**
-scripts: main entry
-model: all kinds of model
-params: save or load model parameter from here
-statistics: a statistics(ie. AP) on prediction result
-preprocess: ready video message and extract video feature using GoogleNet
+ - scripts: main entry
+ - model: all kinds of model
+ - params: save or load model parameter from here
+ - statistics: a statistics(ie. AP) on prediction result
+ - preprocess: ready video message and extract video feature using GoogleNet
 
 ----------
 

@@ -15,5 +15,5 @@ the follow models are using feature cube(7*7*1024) extracted from cnn (ie. Googl
  - saliencyLSTM_multiChannel: using LSTM in focus process
  - saliencyFgbg_multiChannel: using Fgbg(inspired from foreground background segmentation) in focus process
  
- ----------
- cnn_fnn directly uses video frames as an input, through convolutional network, full connected layer, and softmax layer.
+----------
+cnn_fnn directly uses video frames as an input, through convolutional network, full connected layer, and softmax layer.
